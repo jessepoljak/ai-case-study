@@ -3,7 +3,7 @@
 # Challenge 1: AlphaSense Case Study
 
 ## Overview and Origin
-*This readme file is intended to adequately display some background information about the company AlphaSense, and research that outlines its strengths, competitive landscape, and potential future endeavors* 
+>*This readme file is intended to adequately display some background information about the company AlphaSense, and research that outlines its strengths, competitive landscape, and potential future endeavors* 
 
 **Name of company:** 
 AlphaSense
