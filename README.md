@@ -11,8 +11,8 @@ AlphaSense
 **Incorporated:**
 2011
 
-* Who are the founders of the company?
-Jack Kokko and Raj Neervannan
+**Founded by:**
+Jack Kokko & Raj Neervannan
 
 * How did the idea for the company (or project) come about?
 The founder, Jack, was a young investment banker responsible for finding insights on different markets or companies, and very often was having to use CTRL + F to look for keywords in a very inefficient information gathering process. Many years later, he met his co-founder, Raj, and they discovered that these same challenges had not subsided, and they set out to fix the problem.
