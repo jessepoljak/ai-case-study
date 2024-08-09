@@ -23,31 +23,37 @@ Jack was a young investment banker responsible for finding insights on different
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-AlphaSene is trying to solve the fact that it’s extremely difficult to find relevant and concise information in the world investment world. A lot of time is spent trying to find, and then combing through information to find what may be a good or bad investment. 
+**The Problem:**
+AlphaSene is trying to solve the fact that it’s extremely difficult to find relevant and concise information in the investment world. A lot of time is spent combing through quantitative and qualitative data to find what may be a good or bad investment 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-AlphaSense primarily targets firms in the private capital markets space as their customer firms, but this could range far beyond that particular industry. This includes private equity firms, investment banks and family offices, but extends to wealth management firms, consultants, companies researching their competitors, and even individual investors. The global financial services market sits at $42 billion.
+**Intended Customer & Market Size:**
+AlphaSense primarily targets firms in the private capital markets space as their customer firms, but this could range far beyond that particular industry. This includes private equity firms, investment banks and family offices, but extends to wealth management firms, consultants, companies researching their competitors, and even individual investors. The global financial data services market sits at $42 billion
 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-AlphaSense’s competitive advantage lies within their ability to collect information from 10K+ reliable sources of information covering sector themes to 1 on 1 calls by industry experts. Competitors that have access to this much quality data are not able to summarize it nearly as comprehensively. 
+**Competitive Advantage:**
+AlphaSense’s competitive advantage lies within their ability to collect information from 10K+ reliable sources of information covering sector themes to 1 on 1 calls by industry experts. Competitors that have access to this much quality data are not able to summarize it nearly as comprehensively 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-AlphaSense utilizes AI, cloud computing, deep neural networks, and machine learning. They search terabytes of data through their open source platform called Apache Solr. The keys to their platform are that it’s able to do continuous search index rebalancing, dynamic scaling of the cloud cluster, and managing time series data by specific content sources.
+**Technologies:**
+AlphaSense utilizes AI, cloud computing, deep neural networks, and machine learning. They search terabytes of data through their open source platform called Apache Solr. The keys to their platform are that it’s able to do continuous search index rebalancing, dynamic scaling of the cloud cluster, and managing time series data by specific content sources
 
 
 ## Landscape
 
-* What field is the company in?
+**Field:**
 Enterprise Technology industry within Financial Data Services
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-The innovations in this field over the last 5-10 years all center around what AlphaSense does successfully. Companies have been trying to refine their ability to source the best information for their clients in the fastest and most concise way. As AI has improved over the last 5-10 year, the industry has quickly followed. 
+**Recent Field Trends and Innovations:**
+The innovations in this field over the last 5-10 years all center around what AlphaSense does successfully. Companies have been trying to refine their ability to source the best information for their clients in the fastest and most concise way. As AI has improved over the last 5-10 year, the industry has quickly followed
 
 
-* What are the other major companies in this field?
-Factivia, Feedly, Koyfin, Bloomberg, Pitchbook, Crunchbase and Tegus
+**Competitors:**
+* Factivia
+* Feedly
+* Koyfin
+* Bloomberg
+* Pitchbook
+* Crunchbase
+* Tegus
 
 ## Results
 
