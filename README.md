@@ -1,4 +1,5 @@
 # ai-case-study
+>ai-case-study/README.md
 
 # Challenge 1: AlphaSense Case Study
 
