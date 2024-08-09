@@ -57,33 +57,31 @@ The innovations in this field over the last 5-10 years all center around what Al
 
 ## Results
 
-* What has been the business impact of this company so far?
-Calculating the exact ROI of a tool like this is difficult, because it comes in tool consolidation, time savings, and a general increased capability to make better decisions. In general though, companies are able to easily locate and extract quantitative or structured information from unstructured content.
+**Business Impact:**
+Calculating the exact ROI of a tool like this is difficult, because it comes in tool consolidation, time savings, and a general increased capability to make better decisions. In general though, companies are able to easily locate and extract quantitative or structured information from unstructured content
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-Measures of success for the company would be sales and market share, but since AlphaSense is private, we do not have access to this information or how they are doing compared to competitors. However, a site that reviews market intelligence company effectiveness, called G2, ranks it number one in the industry, which is a positive indicator.
+**Performance Metrics:**
+Measures of success for the company would be sales and market share, but since AlphaSense is a private company, we do not have access to this information or how they are doing compared to competitors. However, a site that reviews market intelligence company effectiveness, called G2, ranks it number one in the industry
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-I would suggest AlphaSense create an integration with a software that you can use to store key information from your searches in an organized way. 
+**New Products/Services:**
+I would suggest AlphaSense create an integration with a software that you can use to store key information from your searches in an organized way. As a user researches the best investments in an industry, they should have a simple way to capture the information they deem relevant about each company
 
-* Why do you think that offering this product or service would benefit the company?
+**Why?**
 As a customer, I would love to have access to all of this data and be able to quickly compare companies across an industry for instance. But if I’m doing this all day, it’s going to be easy to forget all of this information. I would like the ability to save key elements of the results and my evaluation. This could be an easy upsell that would benefit the customer’s organization, and AlphaSense’s sales. 
 
-* What technologies would this additional product or service utilize?
-For this new offering, AlphaSense would need to have a database for their client and some additional software interface to allow the user to choose data points to save and add their own insights. 
-* Why are these technologies appropriate for your solution?
-This technology could integrate pretty seamlessly with a product built around structuring data. 
+**Additional Technologies Required:**
+For this new offering, AlphaSense would need to have a database for their client and some additional software interface to allow the user to choose data points to save and add their own insights. This technology could integrate pretty seamlessly with a product built around structuring data. 
 
 
-* Sources:
-https://www.cnbc.com/2024/05/14/alphasense-cnbc-disruptor-50.html 
-https://www.alpha-sense.com/about/ 
-https://www.reuters.com/technology/alphasense-valued-4-bln-after-latest-funding-round-2024-06-11/#:~:text=The%20%24650%20million%20capital%20raise,CapitalG%20and%20Goldman%20Sachs%20Alternatives
-https://www.trgscreen.com/market-data-spend-hits-another-record-as-complexity-grows#:~:text=Global%20spend%20on%20financial%20market,every%20year%20for%20a%20decade. 
-https://www.alpha-sense.com/solutions/competitive-intelligence-for-leading-corporations/ 
-https://www.alpha-sense.com/blog/engineering/how-alphasense-technology-scales/ 
-https://www.alpha-sense.com/resources/roi-of-market-intelligence/ 
-https://www.g2.com/products/alphasense/reviews 
+**Sources:**
+* https://www.cnbc.com/2024/05/14/alphasense-cnbc-disruptor-50.html 
+* https://www.alpha-sense.com/about/ 
+* https://www.reuters.com/technology/alphasense-valued-4-bln-after-latest-funding-round-2024-06-* 11/#:~:text=The%20%24650%20million%20capital%20raise,CapitalG%20and%20Goldman%20Sachs%20Alternatives
+* https://www.trgscreen.com/market-data-spend-hits-another-record-as-complexity-grows#:~:text=Global%20spend%20on%20financial%20market,every%20year%20for%20a%20decade. 
+* https://www.alpha-sense.com/solutions/competitive-intelligence-for-leading-corporations/ 
+* https://www.alpha-sense.com/blog/engineering/how-alphasense-technology-scales/ 
+* https://www.alpha-sense.com/resources/roi-of-market-intelligence/ 
+* https://www.g2.com/products/alphasense/reviews 
