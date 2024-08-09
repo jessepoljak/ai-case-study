@@ -47,13 +47,13 @@ The innovations in this field over the last 5-10 years all center around what Al
 
 
 **Competitors:**
-* Factivia
-* Feedly
-* Koyfin
-* Bloomberg
-* Pitchbook
-* Crunchbase
-* Tegus
+* [Factivia] (https://www.dowjones.com/professional/factiva/)
+* [Feedly]
+* [Koyfin]
+* [Bloomberg]
+* [Pitchbook]
+* [Crunchbase]
+* [Tegus]
 
 ## Results
 
