@@ -76,7 +76,9 @@ As a customer, I would love to have access to all of this data and be able to qu
 For this new offering, AlphaSense would need to have a database for their client and some additional software interface to allow the user to choose data points to save and add their own insights. This technology could integrate pretty seamlessly with a product built around structuring data. 
 
 
-**Sources:**
+### Sources
+
+**Research:**
 * https://www.cnbc.com/2024/05/14/alphasense-cnbc-disruptor-50.html 
 * https://www.alpha-sense.com/about/ 
 * https://www.reuters.com/technology/alphasense-valued-4-bln-after-latest-funding-round-2024-06-11/#:~:text=The%20%24650%20million%20capital%20raise,CapitalG%20and%20Goldman%20Sachs%20Alternatives
@@ -86,5 +88,5 @@ For this new offering, AlphaSense would need to have a database for their client
 * https://www.alpha-sense.com/resources/roi-of-market-intelligence/ 
 * https://www.g2.com/products/alphasense/reviews
 
-### Help With Markdown Code
-> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
+**Help With Markdown Code:**
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
