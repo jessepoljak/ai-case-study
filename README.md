@@ -47,7 +47,7 @@ The innovations in this field over the last 5-10 years all center around what Al
 
 
 **Competitors:**
-* [Factivia] (https://www.dowjones.com/professional/factiva/)
+* [Factivia](https://www.dowjones.com/professional/factiva/)
 * [Feedly]
 * [Koyfin]
 * [Bloomberg]
