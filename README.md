@@ -84,4 +84,7 @@ For this new offering, AlphaSense would need to have a database for their client
 * https://www.alpha-sense.com/solutions/competitive-intelligence-for-leading-corporations/ 
 * https://www.alpha-sense.com/blog/engineering/how-alphasense-technology-scales/ 
 * https://www.alpha-sense.com/resources/roi-of-market-intelligence/ 
-* https://www.g2.com/products/alphasense/reviews 
+* https://www.g2.com/products/alphasense/reviews
+
+### Help With Markdown Code
+> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
