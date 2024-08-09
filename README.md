@@ -3,7 +3,7 @@
 # Challenge 1: AlphaSense Case Study
 
 ## Overview and Origin
-*This readme file is intended to adequately display some background information about the company AlphaSense, and research that outlines its strengths, competitive landscape, and potential future endeavors.* 
+*This readme file is intended to adequately display some background information about the company AlphaSense, and research that outlines its strengths, competitive landscape, and potential future endeavors* 
 
 **Name of company:** 
 AlphaSense
@@ -15,10 +15,11 @@ AlphaSense
 Jack Kokko & Raj Neervannan
 
 **Origin Story:**
-Jack was a young investment banker responsible for finding insights on different markets and companies, and very often was having resort to *CTRL + F* in long documents to look for keywords in a very inefficient information gathering process. Many years later, he met Raj, who was from a similar background, and they discovered that these same challenges had not subsided, so they set out to change the industry.
+Jack was a young investment banker responsible for finding insights on different markets and companies, and very often was having resort to *CTRL + F* in long documents to look for keywords in a very inefficient information gathering process. Many years later, he met Raj, who was from a similar background, and they discovered that these same challenges had not subsided, so they set out to change the industry
 
-* How is the company funded? How much funding have they received?
-AlphaSense has received $770 Million in funding to date. They are privately funded by several investors and investment firms, including JP Morgan Growth Equity Partners, Viking Global Investors, Alphabet’s growth fund CapitalG, and many more. 
+**Funding:**
+*$770 Million in funding to date 
+*Privately funded by several investors and investment firms, including JP Morgan Growth Equity Partners, Viking Global Investors, Alphabet’s growth fund CapitalG, and many more 
 
 ## Business Activities
 
