@@ -69,7 +69,7 @@ Measures of success for the company would be sales and market share, but since A
 **New Products/Services:**
 I would suggest AlphaSense create an integration with a software that you can use to store key information from your searches in an organized way. As a user researches the best investments in an industry, they should have a simple way to capture the information they deem relevant about each company
 
-**Why?**
+**Why?:**
 As a customer, I would love to have access to all of this data and be able to quickly compare companies across an industry for instance. But if I’m doing this all day, it’s going to be easy to forget all of this information. I would like the ability to save key elements of the results and my evaluation. This could be an easy upsell that would benefit the customer’s organization, and AlphaSense’s sales. 
 
 **Additional Technologies Required:**
@@ -79,7 +79,7 @@ For this new offering, AlphaSense would need to have a database for their client
 **Sources:**
 * https://www.cnbc.com/2024/05/14/alphasense-cnbc-disruptor-50.html 
 * https://www.alpha-sense.com/about/ 
-* https://www.reuters.com/technology/alphasense-valued-4-bln-after-latest-funding-round-2024-06-* 11/#:~:text=The%20%24650%20million%20capital%20raise,CapitalG%20and%20Goldman%20Sachs%20Alternatives
+* https://www.reuters.com/technology/alphasense-valued-4-bln-after-latest-funding-round-2024-06-11/#:~:text=The%20%24650%20million%20capital%20raise,CapitalG%20and%20Goldman%20Sachs%20Alternatives
 * https://www.trgscreen.com/market-data-spend-hits-another-record-as-complexity-grows#:~:text=Global%20spend%20on%20financial%20market,every%20year%20for%20a%20decade. 
 * https://www.alpha-sense.com/solutions/competitive-intelligence-for-leading-corporations/ 
 * https://www.alpha-sense.com/blog/engineering/how-alphasense-technology-scales/ 
