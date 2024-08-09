@@ -8,7 +8,7 @@ This readme file is intended to adequately display some background information a
 **Name of company:** 
 AlphaSense
 
-* When was the company incorporated?
+**Incorporated:**
 2011
 
 * Who are the founders of the company?
