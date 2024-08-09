@@ -48,12 +48,12 @@ The innovations in this field over the last 5-10 years all center around what Al
 
 **Competitors:**
 * [Factivia](https://www.dowjones.com/professional/factiva/)
-* [Feedly]
-* [Koyfin]
-* [Bloomberg]
-* [Pitchbook]
-* [Crunchbase]
-* [Tegus]
+* [Feedly](https://feedly.com/)
+* [Koyfin](https://www.koyfin.com/)
+* [Bloomberg](https://www.bloomberg.com/professional/products/bloomberg-terminal/)
+* [Pitchbook](https://get.pitchbook.com/pitchbook-data/?utm_source=google&utm_medium=cpc&utm_campaign=Brand-US&adgroup=Brand-Exact&utm_term=pitchbook&device=c&utm_content=&_bk=pitchbook&_bt=533930678330&_bm=e&_bn=g&_bg=68167525578&kwdaud=kwd-334479000139&sfid=rFC8fCnu-dc_pcrid_533930678330_pkw_pitchbook_pmt_e_slid__productid__pgrid_68167525578_ptaid_kwd-334479000139&gad_source=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqJwByiz2puruaJf3LeD-BApJDXm9FfGrJ9pum_Ua8ZFu0oPxM7XJ8RoC4k8QAvD_BwE)
+* [Crunchbase](https://about.crunchbase.com/find-next-investment/?utm_source=google&utm_medium=cpc&utm_campaign=SCH%20%7C%20Pro%20%7C%20NAM%20%7C%20Brand%20%7C%20Exact%20~%20Super%20-%20Self%20Serve&keyword=crunchbase&matchtype=e&creative=626198265257&device=c&adposition=&campaignid=12750598521&placement=&network=g&gad_source=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqCYhyAgRPZbvuiauiwAed3xAOazZZp_lW9IQmpTgckf9_L9Sk1CFzRoC2jAQAvD_BwE)
+* [Tegus](https://www.tegus.com/)
 
 ## Results
 
